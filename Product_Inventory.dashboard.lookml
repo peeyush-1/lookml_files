@@ -1,4 +1,4 @@
-- dashboard: Product Inventory
+- dashboard: Product_Inventory
   title: Product Inventory
   layout: newspaper
   tile_size: 150

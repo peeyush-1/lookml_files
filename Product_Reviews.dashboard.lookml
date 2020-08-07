@@ -1,4 +1,4 @@
-- dashboard: Product Reviews
+- dashboard: Product_Reviews
   title: Product Reviews
   layout: newspaper
   tile_size: 150
