@@ -1,4 +1,4 @@
-- dashboard: HR Leave Trends
+- dashboard: HR_Leave_Trends
   title: HR Leave Trends
   layout: newspaper
   tile_size: 150
